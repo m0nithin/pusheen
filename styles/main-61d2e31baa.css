@@ -616,8 +616,8 @@ p {
 
 .button-outlined {
     background-color: transparent;
-    border-color: #f7f6f4;
-    color: #f7f6f4
+    border-color: #000000;
+    color: #000000
 }
 
 .button-light:active,
